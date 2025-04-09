@@ -1,5 +1,5 @@
 poki.com
-juegos.com
+*.juegos.com
 minijuegos.com
 kizi.com
 friv.com
